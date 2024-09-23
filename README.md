@@ -23,3 +23,9 @@ https://github.com/0x4D31/galah
 
 
 https://github.com/stratosphereips/shelLM
+
+## Github
+
+https://github.com/jivoi/awesome-ml-for-cybersecurity
+
+https://github.com/Billy1900/Awesome-AI-for-cybersecurity
