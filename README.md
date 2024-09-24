@@ -1,5 +1,5 @@
 # AI-in-Cybersecurity-Resources
-22/08/2024
+
 
 
 
@@ -29,3 +29,8 @@ https://github.com/stratosphereips/shelLM
 https://github.com/jivoi/awesome-ml-for-cybersecurity
 
 https://github.com/Billy1900/Awesome-AI-for-cybersecurity
+
+https://github.com/wtsxDev/Machine-Learning-for-Cyber-Security
+
+https://github.com/cybershujin/AI-for-Cybersecurity
+
